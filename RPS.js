@@ -10,7 +10,6 @@ function rock () {
             computerScore = 'Scissors';
           }
 
-
           let result = '';
 
           if (computerScore === 'rock') {
