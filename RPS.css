@@ -1,0 +1,12 @@
+button {
+    color:beige;
+    background-color: blue;
+    border-color: blueviolet;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: xx-large;
+}
+
+p {
+    font-size: x-large;
+}
